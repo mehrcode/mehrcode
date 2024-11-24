@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Youtube channel and making tutorials.<br>I currently learning React and working on some mini projects.
+I'm currently working on my Youtube channel and making tutorials about frontend developement like HTML, Bootstrap, React (etc). 
 
 
 ## 🌐 Socials:
