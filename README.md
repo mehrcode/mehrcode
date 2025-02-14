@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I'm Mehrnoush Shoulestani, I'm 35 years old Front-End Developer skilled in HTML, CSS, JavaScript, Next.js, Tailwind, Bootstrap, and Git. I've worked on various web page designs, all showcased on my GitHub. Currently, I'm diving into API development and advanced Next.js topics.
+Hi, I'm Mehrnoush Shoolestani, I'm 35 years old Front-End Developer skilled in HTML, CSS, JavaScript, Next.js, Tailwind, Bootstrap, and Git. I've worked on various web page designs, all showcased on my GitHub. Currently, I'm diving into API development and advanced Next.js topics.
 
 
 I am an eager learner who knows how to research and find answers when faced with challenges. I focus on achieving daily milestones and place a high value on growth and progress. Additionally, I have strong interpersonal skills and can interact effectively with various personality types. In my free time, I enjoy reading books, listening to podcasts, painting, creating handmade crafts, and playing 
